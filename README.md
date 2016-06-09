@@ -1,4 +1,4 @@
 # Nodeschool Bronx
 Bronx, NY, USA chapter
 
-***Site in progress***
+http://nodeschool.io/bronx/
